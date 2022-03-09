@@ -1,2 +1,2 @@
-# Random Password Sheyabo
-## Typing C++
+# Generator Password (C++) By Shipu
+### Sample Code
