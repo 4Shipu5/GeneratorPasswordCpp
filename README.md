@@ -1,2 +1,2 @@
 # Random Password Sheyabo
-# Typing C++
+## Typing C++
